@@ -1,7 +1,12 @@
 body{
     margin: 0;
     background-color: #f4f4f4;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;body {
+  background-image: url("https://copilot.microsoft.com/th/id/BCO.e0ea24b6-49cc-497e-80e1-eb47b474809e.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 }
 
 header{
@@ -37,7 +42,6 @@ nav a{
 .hero{
     padding: 80px 20px;
     text-align: center;
-    background: url('tech_background.jpg') no-repeat center/cover;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
 }
