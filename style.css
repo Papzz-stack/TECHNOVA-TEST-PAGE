@@ -1,13 +1,9 @@
 body{
     margin: 0;
     background-color: #f4f4f4;
-    font-family: Arial, Helvetica, sans-serif;body {
-  background-image: url("https://copilot.microsoft.com/th/id/BCO.e0ea24b6-49cc-497e-80e1-eb47b474809e.png");
-  background-size: cover;
-  background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif; 
 }
 
-}
 
 header{
     padding: 15px 30px;
